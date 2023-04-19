@@ -1,4 +1,4 @@
-//A program that tests a user IQ by seeing if they can guess the number
+//A program that is like a game, It sees if a user can guess the number the program is going to generate
 //Necessary imports
 import java.util.Random;
 import java.util.Scanner;
