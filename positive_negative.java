@@ -3,7 +3,7 @@
 import java.util.Scanner;
 
 //Class definition
-public class PositiveOrNegative {
+public class positive_negative {
 
     //Main method
     public static void main(String[] args) {

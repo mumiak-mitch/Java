@@ -1,6 +1,7 @@
 //Run both progrmas at the same time
 //The program for the client side
-import java.io.BufferedReader;
+
+/*import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintStream;
@@ -56,4 +57,4 @@ public class ServerClient {
             
         }
     }
-}
+}*/

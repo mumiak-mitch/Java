@@ -2,7 +2,7 @@
 //necessary import
 import java.util.Scanner;
 
-public class SumofNos {
+public class sum_nos {
 
     //main method
     public static void main(String[] args) {

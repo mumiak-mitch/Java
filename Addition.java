@@ -3,7 +3,7 @@
 import java.util.Scanner;
 
 //Class definition
-public class Addition {
+public class addition {
     
     //Main method
     public static void main(String[] args) {
